@@ -1,5 +1,6 @@
 # Varun Kedia
 ## Asansol Engineering College 2018 - 2022 (IT)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=purplevarun)](https://github.com/anuraghazra/github-readme-stats)
 ## Languages :  
 <strong>C++</strong> : Most dependable and the one I use the most.  
 <strong>Java</strong> : A bit slow but helps me in gui based stuff.  
