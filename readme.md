@@ -5,8 +5,9 @@
 2. Python
 3. Java
 4. JavaScript
-5. MongoDB
-6. MySQL
+## Databases :
+1. MongoDB
+2. MySQL
 ## Skills :
 1. Data Structures and Algorithms
 2. BackEnd Developement using NodeJs and Express
