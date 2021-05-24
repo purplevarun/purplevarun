@@ -6,8 +6,8 @@
 3. Java
 4. JavaScript
 ## Databases :
-1. MongoDB
-2. MySQL
+1. MySQL
+2. MongoDB
 ## Skills :
 1. Data Structures and Algorithms
 2. Object Oriented Programming
