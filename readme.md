@@ -10,5 +10,6 @@
 2. MySQL
 ## Skills :
 1. Data Structures and Algorithms
-2. BackEnd Developement using NodeJs and Express
-3. BackEnd Developement using Flask
+2. Object Oriented Programming
+3. BackEnd Developement using NodeJs and Express
+4. BackEnd Developement using Flask
