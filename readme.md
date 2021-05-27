@@ -8,8 +8,11 @@
 ## Databases :
 1. MySQL
 2. MongoDB
+## Frameworks :
+1. Express
+2. Flask
+3. React
 ## Skills :
 1. Data Structures and Algorithms
 2. Object Oriented Programming
-3. BackEnd Developement using NodeJs and Express
-4. BackEnd Developement using Flask
+3. BackEnd Developement
