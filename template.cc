@@ -1,3 +1,4 @@
+// chunchunmaru
 #include <bits/stdc++.h>
 #define int long long
 #define all(x) x.begin(), x.end()
@@ -32,9 +33,15 @@ template<typename T>void debug(set<T> x) {
 	for (auto i:x)temp.push_back(i);
 	debug(temp);
 }
+int max (vector <int> A) {
+	return *max_element (all (A));
+}
+int max (int A[], int N) {
+	return *max_element (A, A + N);
+}
 // ---------------------------------------------------------------------------------------
 void onigiri () {
-	cout << "nanda anta eogo sabetoruu" << endl;
+
 }
 // ---------------------------------------------------------------------------------------
 signed main () {
@@ -44,7 +51,12 @@ signed main () {
 	cout.tie (0);
 #endif
 	int t = 1;
-	cin >> t;
+	// cin >> t;
+#ifdef VarunDebug
+	for (int i=0; i<40; ++i)
+		cout << "-";
+	cout << "\n";
+#endif
 	while (t--) {
 		onigiri ();
 #ifdef VarunDebug
