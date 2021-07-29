@@ -6,7 +6,6 @@ Plug 'preservim/nerdcommenter'
 Plug 'Jorengarenar/miniSnip'
 Plug 'octol/vim-cpp-enhanced-highlight'
 Plug 'vim-airline/vim-airline'
-Plug 'dikiaap/minimalist'
 call plug#end()
 "--------------------------------------
 cd ~\Desktop\
@@ -15,7 +14,6 @@ set number splitright splitbelow nowrap tabstop=4 shiftwidth=4
 set guioptions= guifont=consolas:h12:b guicursor=a:blinkoff0
 set autochdir history=5 laststatus=2 noshowmode
 let mapleader = ","
-colorscheme minimalist
 "--------------------------------------
 map <C-S> :w <CR>
 map <C-Q> :q <CR>
