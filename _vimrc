@@ -23,7 +23,7 @@ map <C-A> ggVG
 map <C-P> :tabnew $MYVIMRC <CR>
 map <C-L> :source % <CR>
 map <C-B> :vert term run.exe % <CR>
-map <C-K> :vert term runfile.exe % <CR>
+map <C-K> :vert term runfile.bat % <CR>
 map <C-G> :!gitter.exe % <CR><CR>
 map <C-H> :!pusher.exe % <CR><CR>
 map / ,c<Space>
