@@ -12,7 +12,8 @@ cd ~\Desktop\
 set nobackup noundofile noswapfile autoread noexpandtab
 set number splitright splitbelow nowrap tabstop=4 shiftwidth=4
 set guioptions= guifont=consolas:h12:b guicursor=a:blinkoff0
-set autochdir history=5 laststatus=2 noshowmode
+set autochdir history=5 laststatus=2 noshowmode 
+set list listchars=tab:»\ ,extends:›,precedes:‹,nbsp:·,trail:·
 let mapleader = ","
 "--------------------------------------
 map <C-S> :w <CR>
@@ -21,11 +22,10 @@ map `     :!start cmd <CR><CR>
 map <C-A> ggVG
 map <C-P> :tabnew $MYVIMRC <CR>
 map <C-L> :source % <CR>
-map <C-B> :!cls & run % <CR><CR>
-map <C-K> :!cls & run % < in <CR><CR>
-map <C-G> :!gitter % <CR><CR>
-map <C-H> :!pusher % <CR><CR>
-map <C-F> :silent exec "!ft %" <CR>
+map <C-B> :vert term run.exe % <CR>
+map <C-K> :vert term runfile.exe % <CR>
+map <C-G> :!gitter.exe % <CR><CR>
+map <C-H> :!pusher.exe % <CR><CR>
 map / ,c<Space>
 "--------------------------------------
 vnoremap d "_d
@@ -33,3 +33,4 @@ vnoremap <BS> "_d
 inoremap <Home> <Esc><S-I>
 inoremap <End> <Esc><S-A>
 "--------------------------------------
+"colorscheme industry
