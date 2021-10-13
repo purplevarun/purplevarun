@@ -1,4 +1,7 @@
-" sourcing
+" sourcing and encoding
+set encoding=utf-8
+set fileencoding=utf-8
+set termencoding=utf-8
 source $VIMRUNTIME\mswin.vim
 source $VIMRUNTIME\vimrc_example.vim
 "-----------------------------------------------------
@@ -15,7 +18,13 @@ call plug#end()
 "-----------------------------------------------------
 
 " notes
-" install this font : https://github.com/be5invis/Iosevka
+" install this font : https://github.com/be5invis/Iosevka [for the font]
+" these too : [makes the Airline look epic]
+" 			1) clone https://github.com/powerline/fonts
+" 			2) launch powershell as Admin and navigate to the folder above
+" 			3) Set-ExecutionPolicy Bypass (y)
+" 			4) ./install.ps1
+" 			5) Set-ExecutionPolicy Default (y)
 "-----------------------------------------------------
 
 " settings
@@ -29,8 +38,8 @@ let mapleader = ","
 "-----------------------------------------------------
 
 " airline settings
-let g:airline_left_sep = '»'
-let g:airline_right_sep = '«'
+let g:airline_powerline_fonts = 1
+let g:airline_theme = 'light'
 "------------------------------------------------------
 
 " keymaps
