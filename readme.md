@@ -19,7 +19,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 
-<!-- <p><img src="https://data.typeracer.com/misc/badge?user=purplevarun"/></p> -->
+<p><img src="https://data.typeracer.com/misc/badge?user=purplevarun"/></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=purplevarun&count_private=true&show_icons=true&theme=radical" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=purplevarun&langs_count=12&theme=radical" /></p>
