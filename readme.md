@@ -22,22 +22,32 @@
 
 <hr/>
 
-<div style="display:flex;width:80%;justify-content:space-between;flex-direction:row">
-  <img src="https://data.typeracer.com/misc/badge?user=purplevarun"/>
-  <img src="src/monkeytype.png"/>
-</div>
+<p>
+<img src="https://data.typeracer.com/misc/badge?user=purplevarun"/>
+<img width=60% src="src/monkeytype.png"/>
+</p>
 
 <hr/>
 
-<div style="display:flex;width:80%;justify-content:space-between;flex-direction:column">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=purplevarun&count_private=true&show_icons=true&theme=radical" />
-</div>
-<div style="display:flex;width:80%;justify-content:space-between;flex-direction:row">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=purplevarun&langs_count=12&theme=radical" width=50%/>
-<div style="display:flex;width:80%;justify-content:space-between;flex-direction:column;height:100%">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=purplevarun&repo=Dynamic-Programming&theme=radical"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=purplevarun&repo=CodeChef-DSA&theme=radical"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=purplevarun&repo=aec-placement-statistics&theme=radical"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=purplevarun&repo=dotfiles&theme=radical"/>
-</div>
-</div>
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=purplevarun&count_private=true&show_icons=true&theme=radical" />
+<img width=25% src="https://github-readme-stats.vercel.app/api/top-langs/?username=purplevarun&langs_count=4&theme=radical"/>
+</p>
+
+<p>
+<a href="https://github.com/purplevarun/Dynamic-programming">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=purplevarun&repo=Dynamic-Programming&theme=radical"/>
+</a>
+<a href="https://github.com/purplevarun/CodeChef-DSA">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=purplevarun&repo=CodeChef-DSA&theme=radical"/>
+</a>
+</p>
+
+<p>
+<a href="https://github.com/purplevarun/aec-placement-statistics">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=purplevarun&repo=aec-placement-statistics&theme=radical"/>
+</a>
+<a href="https://github.com/purplevarun/dotfiles">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=purplevarun&repo=dotfiles&theme=radical"/>
+</a>
+</p>
