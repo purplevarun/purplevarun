@@ -1,11 +1,11 @@
 # Varun Kedia
 
-## I like to code
+<hr/>
+
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=blue)
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -20,12 +20,24 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 
-## I like to type fast 
+<hr/>
 
-<p><img src="https://data.typeracer.com/misc/badge?user=purplevarun"/>
-<img width=60% src="https://user-images.githubusercontent.com/39029055/141752559-c3d1cd25-95f7-4fa0-9731-e053335d81b9.png"/></p>
+<div style="display:flex;width:80%;justify-content:space-between;flex-direction:row">
+  <img src="https://data.typeracer.com/misc/badge?user=purplevarun"/>
+  <img src="src/monkeytype.png"/>
+</div>
 
-## I like to see my stats
+<hr/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=purplevarun&count_private=true&show_icons=true&theme=radical" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=purplevarun&langs_count=12&theme=radical" /></p>
+<div style="display:flex;width:80%;justify-content:space-between;flex-direction:column">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=purplevarun&count_private=true&show_icons=true&theme=radical" />
+</div>
+<div style="display:flex;width:80%;justify-content:space-between;flex-direction:row">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=purplevarun&langs_count=12&theme=radical" width=50%/>
+<div style="display:flex;width:80%;justify-content:space-between;flex-direction:column;height:100%">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=purplevarun&repo=Dynamic-Programming&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=purplevarun&repo=CodeChef-DSA&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=purplevarun&repo=aec-placement-statistics&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=purplevarun&repo=dotfiles&theme=radical"/>
+</div>
+</div>
