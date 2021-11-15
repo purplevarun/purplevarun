@@ -1,5 +1,6 @@
 # Varun Kedia
 
+## I like to code
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -19,7 +20,12 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 
-<p><img src="https://data.typeracer.com/misc/badge?user=purplevarun"/></p>
+## I like to type fast 
+
+<p><img src="https://data.typeracer.com/misc/badge?user=purplevarun"/>
+<img width=60% src="https://user-images.githubusercontent.com/39029055/141752559-c3d1cd25-95f7-4fa0-9731-e053335d81b9.png"/></p>
+
+## I like to see my stats
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=purplevarun&count_private=true&show_icons=true&theme=radical" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=purplevarun&langs_count=12&theme=radical" /></p>
