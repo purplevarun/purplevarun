@@ -24,14 +24,14 @@
 
 <p>
 <img src="https://data.typeracer.com/misc/badge?user=purplevarun"/>
-<img width=60% src="src/monkeytype.png"/>
+<img width=70% src="src/monkeytype.png"/>
 </p>
 
 <hr/>
 
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=purplevarun&count_private=true&show_icons=true&theme=radical" />
-<img width=25% src="https://github-readme-stats.vercel.app/api/top-langs/?username=purplevarun&langs_count=4&theme=radical"/>
+<img width=30% src="https://github-readme-stats.vercel.app/api/top-langs/?username=purplevarun&langs_count=4&theme=radical"/>
 </p>
 
 <p>
