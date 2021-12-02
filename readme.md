@@ -23,7 +23,6 @@
 <hr/>
 
 <p>
-<img src="https://data.typeracer.com/misc/badge?user=purplevarun"/>
 <img width=65% src="src/monkeytype.png"/>
 </p>
 
