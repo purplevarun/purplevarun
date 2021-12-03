@@ -23,7 +23,7 @@
 <hr/>
 
 <p>
-<img width=65% src="src/monkeytype.png"/>
+<img width=60px src="./src/monkeytype_thumb.png"/>
 </p>
 
 <hr/>
