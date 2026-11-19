@@ -42,12 +42,17 @@
 	<img alt="github contribution snake" src="https://raw.githubusercontent.com/purplevarun/purplevarun/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
-## recent activity
+## activity
 
-*auto-updated every 6 hours*
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=purplevarun&bg_color=0d1117&color=e2e8f0&line=a855f7&point=c084fc&area=true&hide_border=true" alt="activity graph"/>
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+## latest pushes
+
+*auto-updated every 6 hours — public activity only*
+
+<!--START_SECTION:pushes-->
+- _workflow hasn't run yet — come back soon_
+<!--END_SECTION:pushes-->
 
 ---
 
