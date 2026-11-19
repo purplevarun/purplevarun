@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="28" viewBox="0 0 300 28">
+	<style>
+		text { font: 600 19px ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif; }
+		.base { fill: #1a1a1a; }
+		.purple { fill: #a855f7; }
+		@media (prefers-color-scheme: dark) {
+			.base { fill: #e6edf3; }
+		}
+	</style>
+	<text x="0" y="20"><tspan class="base">hi, i'm purple</tspan><tspan class="purple">varun</tspan></text>
+</svg>
