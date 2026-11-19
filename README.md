@@ -1,8 +1,4 @@
-### hi, i'm varun
-
-senior software engineer · bangalore
-
-everything i ship is purple.
+### hi, i'm purple$\textcolor{#a855f7}{\textsf{varun}}$
 
 - currently: senior fullstack swe @ grupo falabella
 - before: american express, thoughtworks
