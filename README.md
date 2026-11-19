@@ -1,4 +1,4 @@
-<img src="name.svg" alt="hi, i'm purplevarun" width="300">
+<img src="name.svg" alt="hi, i'm varun" width="160">
 
 - currently: senior fullstack swe @ grupo falabella
 - before: american express, thoughtworks
